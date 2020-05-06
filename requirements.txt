@@ -1,7 +1,11 @@
 # pip install -U -r requirements.txt
+# pip install --upgrade cython
 numpy
+coverage
+pycodestyle
+cython
 opencv-python >= 4.1
-torch >= 1.5
+torch
 matplotlib
 pycocotools
 tqdm
