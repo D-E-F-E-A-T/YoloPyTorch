@@ -1,0 +1,4 @@
+classes=1
+train=data/jewelry1cls.txt
+valid=data/jewelry1cls.txt
+names=data/jewelry.names
