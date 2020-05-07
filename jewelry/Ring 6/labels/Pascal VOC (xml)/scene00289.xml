@@ -1,0 +1,18 @@
+<annotation>
+    <folder>Ring 6</folder>
+    <filename>scene00289.jpg</filename>
+    <size>
+        <width>720</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Ring 6</name>
+        <bndbox>
+            <xmin>240</xmin>
+            <ymin>235</ymin>
+            <xmax>464</xmax>
+            <ymax>510</ymax>
+        </bndbox>
+    </object>
+</annotation>
