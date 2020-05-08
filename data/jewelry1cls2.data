@@ -1,4 +1,0 @@
-classes=1
-train=data/jewelry1cls2.txt
-valid=data/jewelry1cls2.txt
-names=data/jewelry.names
